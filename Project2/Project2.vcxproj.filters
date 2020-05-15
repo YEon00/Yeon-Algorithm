@@ -45,9 +45,6 @@
     <ClCompile Include="kakao 카카오프렌즈 컬러링북.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1260 BFS DFS.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="kakao 괄호 변환.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -60,16 +57,10 @@
     <ClCompile Include="prog 포켓몬.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1463 1로 만들기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="11052 카드 구매하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2455 지능형기차.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1094 막대기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1966 프린터 큐.cpp">
@@ -94,9 +85,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="14503 로봇청소기.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1057 토너먼트.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="prog 더 맵게.cpp">
@@ -142,9 +130,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="10816 숫자카드2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1181 단어정렬.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="11650 좌표 정렬하기.cpp">
@@ -234,9 +219,6 @@
     <ClCompile Include="15683 감시.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1011 Fly.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2468 안전영역.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -250,9 +232,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="11399 ATM.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1541 잃어버린 괄호.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2146 다리만들기.cpp">
